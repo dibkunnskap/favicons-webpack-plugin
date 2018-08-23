@@ -1,6 +1,6 @@
 {
   "name": "favicons-webpack-plugin",
-  "version": "0.0.9",
+  "version": "0.0.9-dib.0",
   "description": "Let webpack generate all your favicons and icons for you",
   "main": "index.js",
   "files": [
@@ -48,7 +48,7 @@
     "webpack-dev-middleware": "^1.6.1"
   },
   "dependencies": {
-    "favicons": "^4.8.3",
+    "favicons": "git+https://github.com/dibkunnskap/favicons.git",
     "loader-utils": "^0.2.14",
     "lodash": "^4.11.1"
   },
