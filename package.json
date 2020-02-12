@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jantimon/favicons-webpack-plugin.git"
+    "url": "https://github.com/dibkunnskap/favicons-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -33,13 +33,14 @@
   "author": "Jan Nicklas <j.nicklas@me.com> (https://github.com/jantimon)",
   "contributors": [
     "Bruno Dutra <brunocodutra@gmail.com> (https://github.com/brunocodutra)",
-    "Jan Nicklas <j.nicklas@me.com> (https://github.com/jantimon)"
+    "Jan Nicklas <j.nicklas@me.com> (https://github.com/jantimon)",
+    "Erik E. Seierstad <es@dib.no> (https://github.com/dibkunnskap)"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jantimon/favicons-webpack-plugin/issues"
+    "url": "https://github.com/dibkunnskap/favicons-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/jantimon/favicons-webpack-plugin",
+  "homepage": "https://github.com/dibkunnskap/favicons-webpack-plugin",
   "devDependencies": {
     "ava": "^2.4.0",
     "commitizen": "4.0.3",
